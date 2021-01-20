@@ -1,3 +1,5 @@
+---
+
 # Happy seeing you here! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
 
 I am Aahan, currently I am studying in 8th standard in [Delhi Public School, Noida](https://dpsnoida.co.in/). I am an app developer & tech enthusiast I am always open to collaborating on projects and innovative/disruptive ideas. 
@@ -31,3 +33,5 @@ I am Aahan, currently I am studying in 8th standard in [Delhi Public School, Noi
 ---
 
 ### ❗❕ Most of my repositories are private. ❕❗
+
+---
