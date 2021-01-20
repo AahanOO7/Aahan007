@@ -1,6 +1,8 @@
-## Happy seeing you here! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
+# Happy seeing you here! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
 
 I am Aahan, currently I am studying in 8th standard in [Delhi Public School, Noida](https://dpsnoida.co.in/). I am an app developer & tech enthusiast I am always open to collaborating on projects and innovative/disruptive ideas. 
+
+---
 
 ## ⚡ Skills
 
@@ -19,5 +21,13 @@ I am Aahan, currently I am studying in 8th standard in [Delhi Public School, Noi
 ![Git](https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white)
 
+---
+
+## 📊 Stats
+
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=AahanOO7&count_private=true&show_icons=true&include_all_commits=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AahanOO7&hide=TeX&layout=compact)
+
+---
+
+### Most of my repositories are private.
