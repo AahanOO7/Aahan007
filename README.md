@@ -2,8 +2,7 @@
 
 # Happy seeing you here! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
 
-I am Aahan, currently I am studying in 8th standard in [Delhi Public School, Noida](https://dpsnoida.co.in/). I am an app developer & tech enthusiast I am always open to collaborating on projects and innovative/disruptive ideas. 
-
+I am a 14 y/o web developer studying in Delhi Public School, Noida and Chief SEO Director at KnowScape and Chief of Human Resources at CODIA. I build web applications on the MERN Stack. I am open to collaborate on open-source / intriguing projects. I like to participate in hackathons and tech-related events. I am passionate about developing stuff for the community. I am ardent towards learning modern day technologies and aim to do something prolific everyday.
 ---
 
 ## ⚡ Skills
