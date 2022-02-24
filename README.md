@@ -1,4 +1,4 @@
-### Hi There! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px"> It's Me
+### Hi There! 👋 It's me
 <p float="left">
 <img src="https://cdn.dribbble.com/users/736741/screenshots/4029145/media/02cb9df962da9619c8321fa40cbf46b1.gif" width="160px" height="160px">
 <img src="https://cdn.dribbble.com/users/736741/screenshots/4029145/media/02cb9df962da9619c8321fa40cbf46b1.gif" width="160px" height="160px">
