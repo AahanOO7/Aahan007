@@ -7,7 +7,11 @@
 <img src="https://cdn.dribbble.com/users/736741/screenshots/4050357/media/5444781edd2372cbde26266af85e04a4.gif" width="160px" height="160px">
 </p>
 
+<br />
+
 ### I am a 14 year old tech enthusiast and passionate web developer, I love leading projects/teams. I am extremely intrigued by new technologies and always try to learn something new.
+
+<br />
 
 ## ⚡ Skills
 
@@ -22,5 +26,7 @@
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Web3](https://img.shields.io/badge/Web3-FF6600?style=for-the-badge&logo=ethereum&logoColor=white)
+
+<br />
 
 ### ❗❕ Most of my repositories are private. ❕❗
