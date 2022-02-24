@@ -7,7 +7,7 @@
 <img src="https://cdn.dribbble.com/users/736741/screenshots/4050357/media/5444781edd2372cbde26266af85e04a4.gif" width="160px" height="160px">
 </p>
 
-### About Me 
+### 🐱‍💻 About Me 
 I am a 14 year old tech enthusiast and passionate web developer, I love leading projects/teams. I am extremely intrigued by new technologies and always try to learn something new.
 
 ### ⚡ Skills
