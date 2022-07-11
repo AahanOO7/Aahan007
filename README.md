@@ -1,10 +1,10 @@
 ### Hi There! 👋 It's me
 <p float="left">
-<img src="https://cdn.dribbble.com/users/736741/screenshots/4029145/media/02cb9df962da9619c8321fa40cbf46b1.gif" width="160px" height="160px">
-<img src="https://cdn.dribbble.com/users/736741/screenshots/4029145/media/02cb9df962da9619c8321fa40cbf46b1.gif" width="160px" height="160px">
-<img src="https://cdn.dribbble.com/users/736741/screenshots/4048923/media/ab176b992b0f66d12e4739ce63ffdfab.gif" width="160px" height="160px">
-<img src="https://cdn.dribbble.com/users/736741/screenshots/4029145/media/02cb9df962da9619c8321fa40cbf46b1.gif" width="160px" height="160px">
-<img src="https://cdn.dribbble.com/users/736741/screenshots/4050357/media/5444781edd2372cbde26266af85e04a4.gif" width="160px" height="160px">
+<img src="https://cdn.dribbble.com/users/736741/screenshots/4029145/media/02cb9df962da9619c8321fa40cbf46b1.gif" width="80px" height="80px">
+<img src="https://cdn.dribbble.com/users/736741/screenshots/4029145/media/02cb9df962da9619c8321fa40cbf46b1.gif" width="80px" height="80px">
+<img src="https://cdn.dribbble.com/users/736741/screenshots/4048923/media/ab176b992b0f66d12e4739ce63ffdfab.gif" width="80px" height="80px">
+<img src="https://cdn.dribbble.com/users/736741/screenshots/4029145/media/02cb9df962da9619c8321fa40cbf46b1.gif" width="80px" height="80px">
+<img src="https://cdn.dribbble.com/users/736741/screenshots/4050357/media/5444781edd2372cbde26266af85e04a4.gif" width="80px" height="80px">
 </p>
 
 ### 🐱‍💻 About Me 
