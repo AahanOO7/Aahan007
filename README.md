@@ -8,7 +8,7 @@
 </p>
 
 ### 🐱‍💻 About Me 
-I am a 14 year old tech enthusiast and passionate web developer, I love leading projects/teams. I am extremely intrigued by new technologies and always try to learn something new.
+I am a 16 year old tech enthusiast and passionate web developer, I love leading projects/teams. I am extremely intrigued by new technologies and always try to learn something new.
 
 ### ⚡ Skills
 
